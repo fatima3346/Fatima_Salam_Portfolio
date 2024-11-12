@@ -13,4 +13,4 @@ This project has been done using
 - **MS Excel PivotTable**
 - Netflix Dataset 
 ### Excel Dashboard of Netflix
-![Dashboard](Netflix.pdf)
+![Dashboard](download.png)

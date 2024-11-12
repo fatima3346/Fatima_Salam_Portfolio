@@ -15,8 +15,6 @@ This project has been done using
 ### Excel Dashboard of Netflix
 ![Dashboard](download.png)
 ---
-## Power BI
-The same project has been done using power BI
 ![Dashboard](images/image1.png)
 
 ![Dashboard](images/image2.png)

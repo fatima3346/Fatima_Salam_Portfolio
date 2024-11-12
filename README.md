@@ -12,3 +12,5 @@ I'm graduate of Communication and Computer Engineering. Specialized in data anal
 This project has been done using 
 - **MS Excel PivotTable**
 - Netflix Dataset 
+### Excel Dashboard of Netflix
+![Dashboard](Netflix.pdf)

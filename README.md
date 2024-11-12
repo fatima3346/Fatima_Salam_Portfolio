@@ -17,4 +17,10 @@ This project has been done using
 ---
 ## Power BI
 The same project has been done using power BI
-![Dashboard](download.png)
+![Dashboard](images/image1.png)
+
+![Dashboard](images/image2.png)
+
+![Dashboard](images/image3.png)
+
+![Dashboard](images/image4.png)
